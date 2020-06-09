@@ -46,5 +46,9 @@ git clone https://github.com/awslabs/amazon-sagemaker-examples.git
 
 4. Use Studio's file manager to find and open the notebook.
 
+Open the notebook: aws_sagemaker_studio/getting_started/xgboost_customer_churn_**studio**.ipynb
+
+5. Select the Python3 Data Science Kernel.
+
 ![find the notebook](./images/find_and_open_the_notebook.gif)
 
