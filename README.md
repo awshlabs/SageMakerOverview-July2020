@@ -25,12 +25,14 @@ You must have already [on-boarded with Amazon SageMaker Studio](https://docs.aws
 5. Under the new IAM Role, select "Any S3 bucket", Create the IAM role and return to main menu.
 6. Click on Submit to Start the SageMaker Studio provisioning process, this is a once time process and, it may take a few minutes. 
 
+> If you are looking to delete the Studio you've just created later, follow the steps of deleting apps from user menu, and then the user, and finally SageMaker Studio.
+
 
 ## How to run this notebook
 
-1. Login to [Amazon SageMaker Studio](https://us-east-2.console.aws.amazon.com/sagemaker/home?region=us-east-2#/studio/).
+1. Login to [Amazon SageMaker Studio] by clicking on the "Open Studio" butotn next to your user name. it should open a seperate Tab, loading a Jupyterlab based IDE.
 
-2. Open a terminal within Studio.
+2. Open a terminal within Studio:  File -> New Terminal.  
 
 ![open a terminal](./images/open_a_terminal.gif)
 
