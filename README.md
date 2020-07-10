@@ -18,7 +18,7 @@ This folder contains a [Jupyter notebook that will demonstrate the main features
 ## Prerequisites
 
 You must have already [on-boarded with Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-studio-onboard.html) and be able to login to Studio.  If not, please follow these steps.
-1. From the top right Region menu, Select Oregon or us-west-2. 
+1. From the top right Region menu, Select Oregon or us-east-1. 
 2. Go to AWS Management Console, Select Amazon SageMaker.
 3. Amazon SageMaker Studio should be at the top of your menu selection, click on the link to show the Amazon SageMaker Studio Control Panel.
 4. You should see a Get started Section, Select Quick Start, fill in a default user name, Choose then create a new IAM Role.
