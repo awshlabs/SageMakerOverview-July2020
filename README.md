@@ -49,7 +49,7 @@ git clone https://github.com/awslabs/amazon-sagemaker-examples.git
 Open the notebook: aws_sagemaker_studio/getting_started/xgboost_customer_churn_**studio**.ipynb
 
 5. Select the Python3 Data Science Kernel.
-6. Change your Instance type from Unknown to t3.xlarge.
+6. Change your Instance type from Unknown to ml.m5.large.
 
 ![find the notebook](./images/find_and_open_the_notebook.gif)
 
